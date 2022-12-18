@@ -11,9 +11,17 @@
 
 [VSC Install](https://code.visualstudio.com)
 
+* Запустить программу VSC
+
+![значок](Clipboard03.jpg)
+
+* Запустить терминал
+
+![скрин](Clipboard02.jpg)
+
 * Представиться GITу
 
-В командной строке ввести две команды знакомства:
+В терминале ввести две команды знакомства:
 
 > git config --global user.email "ВАШ email"
 
